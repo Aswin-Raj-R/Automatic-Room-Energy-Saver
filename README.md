@@ -4,6 +4,19 @@ An intelligent, automated room energy-saving system powered by an **STM32 Blue P
 
 ---
 
+## 📸 Hardware Prototype & Demonstration
+
+| Startup Banner | Team Ready Screen |
+| :---: | :---: |
+| ![Startup Banner](media/startup_banner.jpeg) | ![Team Ready](media/team_ready.jpeg) |
+
+### Live Real-Time Operation
+*Real-time occupancy tracking and brightness percentage calculation displayed on the 16x2 I2C LCD, with entry/exit IR sensors mounted to the cardboard room frame.*
+
+![Live Operation](media/live_demo.jpeg)
+
+---
+
 ## 🚀 Features
 * **Bi-directional Occupancy Tracking:** Accurately counts people entering and exiting using a dual-IR sensor sequence with a smart timeout window.
 * **Ambient Light Sensing:** Reads natural light levels to prevent appliances from turning on when the room is already bright.
@@ -51,3 +64,11 @@ An intelligent, automated room energy-saving system powered by an **STM32 Blue P
 ## 💻 Software & Libraries
 * Programmed using **Arduino IDE** with STM32 Cores.
 * Library used: `LiquidCrystal_I2C`.
+
+---
+
+## 👥 Authors & Team (Group 15)
+* **Aswin Raj** - [GitHub Profile](https://github.com/Aswin-Raj-Dev)
+* **Gowthami Krishna S** - [GitHub Profile](https://github.com/Gowthamikrishna13)
+
+---
