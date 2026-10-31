@@ -68,7 +68,7 @@ An intelligent, automated room energy-saving system powered by an **STM32 Blue P
 ---
 
 ## 👥 Authors & Team (Group 15)
-* **Aswin Raj** - [GitHub Profile](https://github.com/Aswin-Raj-Dev)
+* **Aswin Raj** - [GitHub Profile](https://github.com/Aswin-Raj-R)
 * **Gowthami Krishna S** - [GitHub Profile](https://github.com/Gowthamikrishna13)
 
 ---
